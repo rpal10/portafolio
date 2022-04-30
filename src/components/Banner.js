@@ -16,7 +16,7 @@ function Banner() {
       className="flex items-center justify-center w-screen h-screen bg-purple flex-col"
     >
       <div className="text-center">
-        <h1 className="text-white text-3xl md:text-5xl font-bold pb-4 ">
+        <h1 className="text-white text-3xl md:text-5xl font-bold pb-4">
           {t("banner_title")}
         </h1>
         <h1 className="text-white text-3xl md:text-5xl font-bold">

@@ -23,31 +23,35 @@ function Carousel() {
     <div className="container mt-6">
       <Slider {...settings}>
         <div>
-          <img src={angular} alt="Logo" className="w-20 h-20 lg:w-52 lg:h-52" />
+          <img
+            src={angular}
+            alt="angular"
+            className="w-20 h-20 lg:w-52 lg:h-52"
+          />
         </div>
         <div>
-          <img src={git} alt="Logo" className="w-20 h-20 lg:w-52 lg:h-52" />
+          <img src={git} alt="git" className="w-20 h-20 lg:w-52 lg:h-52" />
         </div>
         <div>
-          <img src={react} alt="Logo" className="w-20 h-20 lg:w-52 lg:h-52" />
+          <img src={react} alt="react" className="w-20 h-20 lg:w-52 lg:h-52" />
         </div>
         <div>
-          <img src={js} alt="Logo" className="w-20 h-20 lg:w-52 lg:h-52" />
+          <img src={js} alt="js" className="w-20 h-20 lg:w-52 lg:h-52" />
         </div>
         <div>
-          <img src={ts} alt="Logo" className="w-20 h-20 lg:w-52 lg:h-52" />
+          <img src={ts} alt="ts" className="w-20 h-20 lg:w-52 lg:h-52" />
         </div>
         <div>
-          <img src={sass} alt="Logo" className="w-20 h-20 lg:w-52 lg:h-52" />
+          <img src={sass} alt="sass" className="w-20 h-20 lg:w-52 lg:h-52" />
         </div>
         <div>
-          <img src={node} alt="Logo" className="w-20 h-20 lg:w-52 lg:h-52" />
+          <img src={node} alt="node" className="w-20 h-20 lg:w-52 lg:h-52" />
         </div>
         <div>
-          <img src={mongo} alt="Logo" className="w-20 h-20 lg:w-52 lg:h-52" />
+          <img src={mongo} alt="mongo" className="w-20 h-20 lg:w-52 lg:h-52" />
         </div>
         <div>
-          <img src={mysql} alt="Logo" className="w-20 h-20 lg:w-52 lg:h-52" />
+          <img src={mysql} alt="mysql" className="w-20 h-20 lg:w-52 lg:h-52" />
         </div>
       </Slider>
     </div>

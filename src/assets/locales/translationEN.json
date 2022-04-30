@@ -2,5 +2,9 @@
   "navbar_language": "Select Language",
   "navbar_home": "Home",
   "navbar_about": "About me",
-  "navbar_contact": "Contact"
+  "navbar_contact": "Contact",
+  "banner_title": "Hi, I'm Raúl a web developer",
+  "banner_subtitle": "Glad to see you here!",
+  "about_description": "My name is Raúl and I’m a web developer from Costa Rica with knowledge on web accessibility and also a quick learner and backend enthusias. Always open to learn and work on new technologies. Based in Costa Rica, willing to work remotely and consider traveling if its necessary",
+  "about_skills": "My skills"
 }

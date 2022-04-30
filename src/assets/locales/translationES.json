@@ -2,5 +2,9 @@
   "navbar_language": "Elegir lenguaje",
   "navbar_home": "Inicio",
   "navbar_about": "Sobre mi",
-  "navbar_contact": "Contacto"
+  "navbar_contact": "Contacto",
+  "banner_title": "Hola, soy Raúl un desarrollador web",
+  "banner_subtitle": "Un gusto!",
+  "about_description": "Mi nombre es Raúl y soy un desarrollador web de Costa Rica, tengo conocimiento en desarrollo accesible web, aprendo rápido y soy entusiaste del backend pero siempre abierto a aprender y trabajar en nuevas tecnologías. Vivo en Costa Rica, dispuesto a trabajar remotamente y considerando el viajar por trabajo.",
+  "about_skills": "Mis habilidades"
 }

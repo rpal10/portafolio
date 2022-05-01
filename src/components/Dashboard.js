@@ -1,6 +1,8 @@
 import NavBar from "../layout/Nabvar";
 import Banner from "./Banner";
 import About from "./About";
+import Contact from "./Contact";
+import Footer from "../layout/Footer";
 
 function Dashboard() {
   return (
@@ -8,7 +10,8 @@ function Dashboard() {
       <NavBar />
       <Banner />
       <About />
-      <div className="h-screen bg-black" id="contact"></div>
+      <Contact />
+      <Footer />
     </div>
   );
 }

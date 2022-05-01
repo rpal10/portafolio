@@ -21,7 +21,7 @@ function LanguageSelect() {
   const { t } = useTranslation();
 
   return (
-    <div className="hidden sm:contents">
+    <div>
       <Button
         className="text-white"
         onClick={({ currentTarget }) => setMenuAnchor(currentTarget)}

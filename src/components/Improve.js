@@ -1,4 +1,3 @@
-import { Fragment } from "react";
 import { useTranslation } from "react-i18next";
 
 import tailwind from "../assets/images/about/tailwind.png";

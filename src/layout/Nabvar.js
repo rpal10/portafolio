@@ -8,7 +8,7 @@ function Nabvar() {
   const { t } = useTranslation();
 
   return (
-    <div className="w-screen bg-purple bg-fixed h-16 flex items-center justify-center z-50 fixed">
+    <div className="w-screen bg-purple h-16 flex items-center justify-center z-50 fixed">
       <Link
         activeClass="active"
         to="banner"

@@ -41,7 +41,7 @@ function Banner() {
         <img
           src={koi}
           alt="Logo"
-          className="w-36 absolute top-14 left-2 hover:animate-spin-slow"
+          className="w-36 absolute top-20 left-2 hover:animate-spin-slow"
         />
         <img
           src={koi_1}

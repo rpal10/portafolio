@@ -2,9 +2,7 @@ const { JoinInnerTwoTone } = require("@mui/icons-material");
 const colors = require("tailwindcss/colors");
 
 module.exports = {
-  mode: "jit",
-  purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
-  darkMode: false, // or 'media' or 'class'
+  content: ["./public/**/*.html", "./src/**/*.{js,jsx,ts,tsx,vue}"],
   theme: {
     extend: {
       animation: {

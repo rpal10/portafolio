@@ -5,14 +5,14 @@
   "navbar_contact": "Contacto",
   "banner_title": "Hola, soy Raúl un desarrollador web",
   "banner_subtitle": "Un gusto!",
-  "about_description": "Mi nombre es Raúl y soy un desarrollador web de Costa Rica, tengo conocimiento en desarrollo accesible web, aprendo rápido y soy entusiaste del backend pero siempre abierto a aprender y trabajar en nuevas tecnologías. Vivo en Costa Rica, dispuesto a trabajar remotamente y considerando el viajar por trabajo.",
+  "about_description": "Mi nombre es Raúl y soy un desarrollador web en Costa Rica, tengo conocimiento en desarrollo accesible web y full stack, aprendo rápido y soy entusiasta del backend y frontend con React pero siempre abierto a aprender y trabajar en nuevas tecnologías. Vivo en Costa Rica, dispuesto a trabajar remotamente y considerando el viajar por trabajo.",
   "about_skills": "Mis habilidades",
   "improve_title": "Siempre intentado mejorar y aprender",
   "improve_description": "Este portafolio fue desarrollado con tecnologías que estoy empezando a utilizar.",
   "improve_react": "Trabaje en pequeños proyectos personales, pero estos nunca vieron la luz, para este proyecto quise implementarlo ya que me recuerda de cierta forma a Angular con el cual me desarrollo profesionalmente en mi trabajo.",
-  "improve_tailwind": "Siempre he trabajado CSS con herramientas para este, principalmente SASS y para el estructurado de elemento siempre suelo usar Boostrap por lo cual agregar esta herramienta me parecio de gran importancia y la he estado disfrutando",
-  "improve_firebase": "Una herramienta de Google que solo por ese hecho ya la vuelve interesante el hecho de trabajar diferentes areas del desarrollo con esta me parecio muy tentador el investigar sobre esto.",
-  "improve_figma": "Quisiera agregar una herramienta de diseño ya que es bien sabido que los programadores no son los expertos en diseño, sin embargo a mi me interesa mucho el como se ven las cosas por lo que me embarque en aprender Figma.",
+  "improve_tailwind": "Siempre he trabajado CSS con herramientas para este, principalmente SASS y para el estructurado de elementos siempre suelo usar Bootstrap por lo cual agregar esta herramienta me parecio de gran importancia y la he estado disfrutando",
+  "improve_firebase": "Una herramienta de Google que solo por ese hecho ya la vuelve interesante el hecho de trabajar diferentes areas del desarrollo con esta me parecio muy tentador por ejemplo este proyecto esta hosteado con Firebase.",
+  "improve_figma": "Quisiera agregar una herramienta de diseño ya que es bien sabido que los programadores no son los expertos en diseño, sin embargo por mi parte me gusta mucho el como se ven las cosas bien diseñadas, por lo que me embarque en aprender Figma.",
   "contact_title": "Contacto",
   "contact_description": "Sí está interesado en trabajar conmigo puede contactarse por los siguientes medios y solicitar mi Curriculum"
 }

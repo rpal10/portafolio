@@ -1,0 +1,61 @@
+.active {
+  border-bottom: white 2px solid;
+}
+.navbarHover:after {
+  display: block;
+  content: "";
+  border-bottom: solid 2px white;
+  transform: scaleX(0);
+  transition: transform 150ms ease-in-out;
+}
+.navbarHover:not(.active):hover::after {
+  transform: scaleX(1);
+}
+
+/* Banner */
+
+/* position: absolute;
+width: 1920px;
+height: 719px;
+left: 0px;
+top: 0px; */
+
+/* Banner */
+
+/* position: absolute;
+width: 1920px;
+height: 719px;
+left: 0px;
+top: 0px;
+
+background: #6752ED;
+ */
+/* pez-koi 1 */
+
+/* position: absolute;
+width: 141px;
+height: 146px;
+left: 1389px;
+top: 286px;
+
+background: url(pez-koi.png); */
+
+/* koi 1 */
+
+/* position: absolute;
+width: 201px;
+height: 211px;
+left: 0px;
+top: 47px;
+
+background: url(koi.png); */
+
+/* pez-koi(1) 1 */
+
+/* position: absolute;
+width: 141px;
+height: 155px;
+left: 1765px;
+top: 103px;
+
+background: url(pez-koi(1).png); */
